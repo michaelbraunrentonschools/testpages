@@ -1,8 +1,8 @@
-# portfolio pages of student work
+# Overview: Includes a demonstration of the project. 
 
-This is markdown!! *yay*
+## Topic: You can have been hired to develop a 2D side scrolling game about the Business Achievement Awards (BAA) Program.
 
-Final Project: Portfolio from Students 
+### Final Project: Portfolio from Students 
 
 Student 1: https://makecode.com/_hU0d3AHzxEHu (Links to an external site.)
 <br>
