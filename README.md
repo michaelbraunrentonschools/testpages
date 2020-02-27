@@ -28,17 +28,56 @@ Project 3 URL: https://makecode.com/_HE5fVTKoR1zW
 
 <br>
 
+Project 4: Name
+
+Project 4: Description
+
 Project 4 URL: https://makecode.com/_h6c7RcfXLA7k (Links to an external site.)
 <br>
+
+
+Project 5: Name
+
+Project 5: Description
+
 Project 5 URL: https://makecode.com/_0Chc90XAoiAi (Links to an external site.)
 <br>
+
+Project 6: Name
+
+Project 6: Description
+
 Project 6 URL: https://makecode.com/_4wf5sFKdMLRk (Links to an external site.)
 <br>
+
+
+Project 7: Name
+
+Project 7: Description
+
 Project 7 URL: https://makecode.com/_HwsFJPXexMMj (Links to an external site.)
 <br>
+
+
+Project 8: Name
+
+Project 8: Description
+
 Project 8 URL: https://makecode.com/_CC7eJAc8h0Aa (Links to an external site.)
 <br>
+
+
+Project 9: Name
+
+Project 9: Description
+
 Project 9 URL: https://makecode.com/_a6jaF0fT9ie6
 <br> 
+
+
+Project 10: Name
+
+Project 10: Description
+
 Project 10 URL: https://michaelbraunrentonschools.github.io/soulslash/
 <br> 
