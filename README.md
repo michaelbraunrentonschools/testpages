@@ -30,15 +30,15 @@ Project 3 URL: https://makecode.com/_HE5fVTKoR1zW
 
 Project 4 URL: https://makecode.com/_h6c7RcfXLA7k (Links to an external site.)
 <br>
-Student 5 URL: https://makecode.com/_0Chc90XAoiAi (Links to an external site.)
+Project 5 URL: https://makecode.com/_0Chc90XAoiAi (Links to an external site.)
 <br>
-Student 6 URL: https://makecode.com/_4wf5sFKdMLRk (Links to an external site.)
+Project 6 URL: https://makecode.com/_4wf5sFKdMLRk (Links to an external site.)
 <br>
-Student 7 URL: https://makecode.com/_HwsFJPXexMMj (Links to an external site.)
+Project 7 URL: https://makecode.com/_HwsFJPXexMMj (Links to an external site.)
 <br>
-Student 8 URL: https://makecode.com/_CC7eJAc8h0Aa (Links to an external site.)
+Project 8 URL: https://makecode.com/_CC7eJAc8h0Aa (Links to an external site.)
 <br>
-Student 9 URL: https://makecode.com/_a6jaF0fT9ie6
+Project 9 URL: https://makecode.com/_a6jaF0fT9ie6
 <br> 
-Student 10 URL: https://michaelbraunrentonschools.github.io/soulslash/
+Project 10 URL: https://michaelbraunrentonschools.github.io/soulslash/
 <br> 
