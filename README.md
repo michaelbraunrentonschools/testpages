@@ -7,8 +7,8 @@
 ### Project 1: Supi's Adventure thourgh FBLA. Description: I did it, I finally    volunteered for the FBLA (Future Business Leaders of America. I can only imagine the Future ahead of me. The Business I'll make. The Leaders I'll see. All in this great nation of America
 <br>
 Project 1: URL: https://makecode.com/_hU0d3AHzxEHu 
-
 <br>
+
 ### Project 2: Final Project: Welcome to Cleanup Day! Use WASD to move. Use SPACE to shoot at the trash bags. Your lives are in the left top corner and your score is above it. In the right corner is a display for how many seconds you have played the game for. The facts in this game were found on the Internet. The creator does not claim or intend to claim the discovery of these facts. You spend your day cleaning up various areas of town. In the morning, you pick up pieces of paper. Around noon, you pick up pieces of trash. In the afternoon, you clean up puddles of water. Early in the night, you pick up logs of wood. Then, you return home and rest.
 <br>
 Project 2 URL:  https://makecode.com/_4JbYHUUtKcY8 
